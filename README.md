@@ -1,6 +1,4 @@
 # hellow
-exercise repository
-
-this is edits 
+exercise repository 
 
 10/21 test the file
